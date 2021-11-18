@@ -2,7 +2,7 @@
 
 This repository contains examples of popular visualization techniques implemented in Python with steps behind them being explained. Each visuzlization has Jupyter Notebook.
 
-**Notebooks**
+## List of Contents
 
 [Chapter 1. HeatMap](Chapter-1-HeatMap.ipynb)
 
@@ -10,6 +10,13 @@ This repository contains examples of popular visualization techniques implemente
 
 Chapter 2.
 
-**Used Data:**
+## Data
 
-[Olympic Games, 1986-2018](https://www.kaggle.com/piterfm/olympic-games-medals-19862018)
+The full list of datasets that is being used for Jupyter Notebook may be found in [data folder](https://github.com/PetroIvaniuk/homemade-visualization/tree/main/data).
+
+List of original datasets:
+ - [Olympic Games, 1986-2018](https://www.kaggle.com/piterfm/olympic-games-medals-19862018)
+
+## Supporting the project
+
+You can support project via ⭐
