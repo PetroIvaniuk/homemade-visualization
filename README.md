@@ -36,12 +36,17 @@ source homemade-visuzation/bin/activate
 git clone git@github.com:PetroIvaniuk/homemade-visualization.git
 ```
 
+#### Go to the project directory
+```console
+cd homemade-visualization/
+```
+
 #### Install all dependencies:
 ```console 
 pip install -r requirements.txt
 ```
 
-#### Run Jupyter and open notebook from it:
+#### Run Jupyter and open notebook:
 ```console 
 jupyter notebook --no-browser
 ```
