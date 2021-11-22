@@ -36,7 +36,7 @@ source homemade-visuzation/bin/activate
 git clone git@github.com:PetroIvaniuk/homemade-visualization.git
 ```
 
-#### Go to the project directory
+#### Go to the project directory:
 ```console
 cd homemade-visualization/
 ```
@@ -53,4 +53,4 @@ jupyter notebook --no-browser
 
 ## Supporting the project
 
-You can support project via ⭐
+You can support the project via ⭐ or share the project with friends.
