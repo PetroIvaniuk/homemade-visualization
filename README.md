@@ -33,7 +33,7 @@ source homemade-visuzation/bin/activate
 
 #### Clone project:
 ```console
-git@github.com:PetroIvaniuk/homemade-visualization.git
+git clone git@github.com:PetroIvaniuk/homemade-visualization.git
 ```
 
 #### Install all dependencies:
