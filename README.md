@@ -8,7 +8,11 @@ This repository contains examples of popular visualization techniques implemente
 
 <img src="https://github.com/PetroIvaniuk/homemade-visualization/blob/main/images/heatmap_winter_games.png" alt="drawing" width="500"/>
 
-Chapter 2. To be continued ...
+[Chapter 2. BarhPlot](Chapter-2-BarhPlot.ipynb)
+
+<img src="https://github.com/PetroIvaniuk/homemade-visualization/blob/main/images/barh_plot.png" alt="drawing" width="500"/>
+
+Chapter 3. To be continued ...
 
 ## Data
 
@@ -16,6 +20,7 @@ The full list of datasets that is being used for Jupyter Notebook may be found i
 
 List of original datasets:
  - [Olympic Games, 1986-2018](https://www.kaggle.com/piterfm/olympic-games-medals-19862018)
+ - [Land Area](https://data.worldbank.org/indicator/AG.LND.TOTL.K2)
 
 ## How to run project?
 
